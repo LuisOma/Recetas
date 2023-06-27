@@ -17,11 +17,11 @@ Basado en la arquitectura Clean y el patrón MVVM.
 - La interfaz de usuario, que muestra una representación visual de los datos en ViewModel.
 
 ## Paquetes de aplicaciones
-- #app:
+- # app:
 - base
 - ui
 
-- #Módulo data:
+- # Módulo data:
 - dataSource.
 - domain.
 - extensions.
