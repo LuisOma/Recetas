@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recetas</string>
+    <string name="title_activity_main">Recetas</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_detail">Detalle</string>
+    <string name="google_maps_key">AIzaSyBQxrRs9gALWm8krbuH4dMd0l9LIvNBWcQ</string>
+    <string name="load_data">Cargando datos</string>
+    <string name="content_description">contentDescription</string>
+    <string name="title">Title</string>
+    <string name="description">Descripción</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="error">Error</string>
+    <string name="creation">Creación</string>
+</resources>
